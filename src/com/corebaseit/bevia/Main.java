@@ -52,8 +52,5 @@ public class Main {
         //   Now you can create any type of flashlight from here without inheritance and by preserving the components decoupling principle.
         //   Notice how we have decoupled the components object creation from the TheFlashLight class.
         //   Cheers ;)
-
-
-
     }
 }
